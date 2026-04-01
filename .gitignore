@@ -1,0 +1,31 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+#Intellij
+./idea
+*.iml
+*.iws
+*.ipr
+out/
+
+#Logs
+*.log
+
+#OS
+.DS_STORE
+.Thumbs.db
+
+#Env
+.env
+.env.*
+
+#Node (Future react frontend)
+node_modues/
+dist/
+
+#Build
+build/
+
+#Generated
+HELP.md
